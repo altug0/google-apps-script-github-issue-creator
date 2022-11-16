@@ -1,0 +1,15 @@
+{
+    "githubUrl" : "https://api.github.com/repos",
+    "githubService" : "issue",
+    "githubAccount" : "YOUR_ACCOUNT",
+    "githubAccessToken" : "YOUR_GITHUB_ACCESS_TOKEN",
+    "githubLabelType" : "YOUR_LABEL",
+    "githubIssueIdLenght" : "8",
+    "repoOrderInForm" : "0",
+    "importanceOrderInForm" : "1",
+    "contentOrderInForm" : "2",
+    "repoEquivalant" : { 
+        "REPO NAME IN FORM 1" : "ACTUAL_REPO_NAME_1",
+        "REPO NAME IN FORM 2" : "ACTUAL_REPO_NAME_2"
+    }
+}
